@@ -47,8 +47,8 @@ Desarrollar una aplicación que permita:
 ### 1️⃣ Clonar el repositorio
 
 ```bash id="a9k3v1"
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/SistemaGerenciaClinicaVet.git
+cd SistemaGerenciaClinicaVet
 ```
 
 ---
